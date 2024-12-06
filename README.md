@@ -65,7 +65,7 @@ endmodule
 
 ```
 ## RTL LOGIC FOR FLIPFLOPS:
-![image](https://github.com/PuliNagaNeeraj/T-FLIPFLOP-POSEDGE/assets/138849173/dc19263c-717c-4574-9d8b-cbfc05cc2b4c)
+![image](https://github.com/user-attachments/assets/5869dc31-748d-4e75-b0e5-f18d80c787ca)
 
 ## TIMING DIGRAMS FOR FLIP FLOPS:
 ![image](https://github.com/PuliNagaNeeraj/T-FLIPFLOP-POSEDGE/assets/138849173/664e31fc-154e-4277-b2e3-4a0588832db9)
