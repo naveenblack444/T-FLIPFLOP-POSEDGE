@@ -1,5 +1,7 @@
-# Developed by : Naveen R
-# RegisterNumber: 24900811
+**Developed by : Naveen R**
+
+**RegisterNumber: 24900811**
+
 # T-FLIPFLOP-POSEDGE
 
 **AIM:**
