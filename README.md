@@ -49,12 +49,9 @@ From the above characteristic table, we can directly write the next state equati
 **PROGRAM**
 ```
 
-Program for flipflops and verify its truth table in quartus using Verilog programming.
 module  expt9( input clk, rst_n, input t,output reg q,output q_bar);
 always@(posedge clk) 
-begin // for synchronous reset
-  //WRITE THE CONDITION OF TOGGLE FLIPFLOP HERE WITH RESET AND 
-  //IMPLEMENT THE T LOGIC BY CONDITIONAL OPERATOR
+begin
 if(!rst_n)
 q<=0;
 else 
